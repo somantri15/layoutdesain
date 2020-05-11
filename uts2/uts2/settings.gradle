@@ -1,0 +1,2 @@
+rootProject.name='uts2'
+include ':app'
